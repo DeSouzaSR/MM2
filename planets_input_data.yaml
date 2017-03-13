@@ -1,0 +1,13 @@
+# Enter name simulation
+name_simulation:
+    'mercury'
+
+# Directory path
+directory_path: Input_data
+
+# Name for each Mercury's cadidates varying the semi-axis
+sufix_list: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+
+# Numbers of the Mercury's candidates varying the angles
+number_canditates: 100
+
